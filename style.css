@@ -39,7 +39,10 @@ h1{
 #other{
     margin-top: 60px;
 }
-
+#hr-set{
+    padding-left: 400px;
+    padding-right: 400px;
+}
 /*second part*/
 #marge{
     border: 60px solid white;
