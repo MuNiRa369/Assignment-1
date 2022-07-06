@@ -35,7 +35,7 @@ h1{
     margin-top: 60px;
 }
 
-
+/*second part*/
 #marge{
     border: 60px solid white;
 }
@@ -54,4 +54,21 @@ h1{
 #red-box{
     background-color: rgb(239, 195, 195);
     border: 2px solid red;
+}
+
+.flax{
+    display: flex;
+    margin-bottom: 100px;
+}
+#food{
+    background-color: rgba(61, 155, 166, 0.776);
+}
+#shalter{
+    background-color: rgb(247, 215, 215);
+}
+#edu{
+    background-color: rgb(248, 233, 186);
+}
+.im{
+    text-align: left;
 }
