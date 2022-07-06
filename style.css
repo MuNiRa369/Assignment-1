@@ -103,7 +103,11 @@ h1{
     padding: 30px;
 }
 #sort{
-    
+    background-color: wheat;
+}
+.pedding-box{
+    padding-left: 450px;
+    padding-right: 350px;
 }
 .cream{
     border: 100px solid wheat;
