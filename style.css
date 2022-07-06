@@ -91,6 +91,11 @@ h1{
     margin-right: 30px;
     padding-left: 40px;
     text-align: left;
+    text-align: justify;
+}
+#r-padding{
+    padding-right: 150px;
+    padding-bottom: 150px;
 }
 #fp{
     background: fixed;
@@ -98,6 +103,7 @@ h1{
     font-weight: 600;
     border: 30px;
     padding-bottom: 30px;
+    padding-top: 70px;
 }
 #sb{
     text-align: center;
