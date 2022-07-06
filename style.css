@@ -75,7 +75,11 @@ h1{
 .im{
     text-align: left;
 }
-
+.line{
+    margin-right: 30px;
+    padding-left: 40px;
+    text-align: left;
+}
 #fp{
     background: fixed;
     background-color: black;
