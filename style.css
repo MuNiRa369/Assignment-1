@@ -52,6 +52,12 @@ h1{
     text-align: center;
     margin-left: 16%;
 }
+.t-color{
+    color: gray;
+}
+.box-pedding{
+    padding-left: 150px;
+}
 .one{
    
     box-shadow: 30px 10px 20px whitesmoke;
@@ -68,6 +74,7 @@ h1{
     display: flex;
     margin-bottom: 100px;
 }
+
 #food{
     background-color: rgba(61, 155, 166, 0.776);
 }
