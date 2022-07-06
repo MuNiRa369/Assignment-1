@@ -87,6 +87,9 @@ h1{
 .im{
     text-align: left;
 }
+#space{
+    padding-bottom: 100px;
+}
 .line{
     margin-right: 30px;
     padding-left: 40px;
@@ -99,8 +102,8 @@ h1{
 }
 
 #up{
-    border: 60px solid white;
-    padding: 30px;
+    border: 20px solid white;
+    padding: 10px;
 }
 #sort{
     background-color: wheat;
