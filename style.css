@@ -32,7 +32,7 @@ h1{
     padding: 10px 40px;  
 }
 #other{
-    
+    margin-top: 60px;
 }
 
 
@@ -50,4 +50,8 @@ h1{
     border-radius: 10px;
     margin-right: 5%;
     padding: 40px ;
+}
+#red-box{
+    background-color: rgb(239, 195, 195);
+    border: 2px solid red;
 }
